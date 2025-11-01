@@ -1,0 +1,4 @@
+CMD
+
+javac -cp mysql-connector-j-9.4.0.jar BookInventoryApp.java
+java -cp .;mysql-connector-j-9.4.0.jar BookInventoryApp     
